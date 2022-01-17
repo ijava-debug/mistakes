@@ -1,5 +1,6 @@
 # main links
 main:
+
   - title: "Quick-Start Guide1"
     url: https://ijava-debug.github.io/mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -11,4 +12,4 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Blog"
-    url: https://ijava-debug.github.io/mistakes/_posts/
+    url: https://ijava-debug.github.io/mistakes/2022-01-13-ios-interview/
